@@ -1,26 +1,26 @@
 Sheet 1:
-Comparing to the Number of Male and Female that survived or died in the titanic crash shows that the number of Male died in the<br> Titanic crash compared to Female.
+Comparing to the Number of Male and Female that survived or died in the titanic crash shows that the number of Male died in the Titanic crash compared to Female.
 
 Sheet 2:
-The comparative ratio shows that there are more survivors who embarked from the town Cherbourg and the lowest ratio of survivor<br> is from the town Southhampton. 
+The comparative ratio shows that there are more survivors who embarked from the town Cherbourg and the lowest ratio of survivor is from the town Southhampton. 
 
 Sheet 3:
-It shows that more number of male than the number of female have embarked from the town Southhampton whereas in case of the<br> Queenstown it has almost equal number of Male and female who have embarked on the Titanic.
+It shows that more number of male than the number of female have embarked from the town Southhampton whereas in case of the Queenstown it has almost equal number of Male and female who have embarked on the Titanic.
 
 Sheet 4:
-The Average fare charged from each town shows that Queenstown average fare is the lowest compared to the Average fare charged<br> from the Cherbourg. The Average fare is shown as a summation of all the cabins and class on which the passenger<br> booked it on the Titanic.
+The Average fare charged from each town shows that Queenstown average fare is the lowest compared to the Average fare charged from the Cherbourg. The Average fare is shown as a summation of all the cabins and class on which the passenger booked it on the Titanic.
 
 Sheet 5:
-This sheet shows in the comparison of numbers of survivors of Titanic crash in different age group compared to death in that<br> specific age group.
+This sheet shows in the comparison of numbers of survivors of Titanic crash in different age group compared to death in that specific age group.
 
 Sheet 6:
 This sheet shows the comparison of the number of male and female present in the age group.
 
 Comparative Analysis:
-It shows the result of Sheet 1, Sheet 5 and Sheet 6. It helps to understand that highest number of people irrespective of there<br> gender have died were in the age group of 20-30. In addition, the major number of Male died were between 20-70 whereas<br> most of the death in female were in between 20-30 only. Most of the child(irrespective gender) have survived the<br> Titanic crash that is the most of person in between the age group of 0-15 who were embarked Titanic have survived.
+It shows the result of Sheet 1, Sheet 5 and Sheet 6. It helps to understand that highest number of people irrespective of there gender have died were in the age group of 20-30. In addition, the major number of Male died were between 20-70 whereas most of the death in female were in between 20-30 only. Most of the child(irrespective gender) have survived the Titanic crash that is the most of person in between the age group of 0-15 who were embarked Titanic have survived.
 
 Conclusion:
-On seeing this analysis we can say that most of the person who embarked for the journey titanic were Male. The highest number of<br> person died during the crash were male and between 20-70 age group. The Average fare of the Titanic that highest was<br> charged was from the Cherbourgh town. The almost equal number of Female and Male embarked from the Queenstown. If the person who<br> embarked from the Southhampton had most likely not survived the Titanic crash. If the person's Gender is Female it is<br> most likely they have survived the Titanic crash.
+On seeing this analysis we can say that most of the person who embarked for the journey titanic were Male. The highest number of person died during the crash were male and between 20-70 age group. The Average fare of the Titanic that highest was charged was from the Cherbourgh town. The almost equal number of Female and Male embarked from the Queenstown. If the person who embarked from the Southhampton had most likely not survived the Titanic crash. If the person's Gender is Female it is most likely they have survived the Titanic crash.
 
 query912.hql:
 This set of query language is used to import the data into the Hive Warehouse from the location where the data is stored. (Note:- The data that doesn't follow the specified structure will replace it with NULL value so make sure to remove those null values from the result.)
